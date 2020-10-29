@@ -1,0 +1,2 @@
+node GeniusSelf.js
+pause
